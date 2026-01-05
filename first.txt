@@ -7,3 +7,5 @@ line 6
 line 7
 bye 
 so am I
+hello again
+hello again added(this was conflicting while i wanted to rebase this branch)
